@@ -157,5 +157,9 @@
     </string>
     <string name="textview_OMTG_NETW_004_SSL_Pinning_Whole_Cert">This HTTPS request is pinned against the whole certificate</string>
     <string name="button_OMTG_NETW_004_SSL_Pinning_Whole_Cert">OMTG_NETW_004_SSL_Pinning_Whole_Cert</string>
+    <string name="title_activity_omtg__crypto_003__signature__validation">OMTG_MSTG_CRYPTO_3_Signature_Validation</string>
+    <string name="button_activity_omtg__crypto_003__signature_validation_validate">Validate</string>
+    <string name="textview_OMTG_CRYPTO_003_Signature_Validation_Description">Verify the firmware signature</string>
+    <string name="button_OMTG_CRYPTO_003_Signature_Validation">OMTG_CRYPTO_003_Signature_Validation</string>
 
 </resources>

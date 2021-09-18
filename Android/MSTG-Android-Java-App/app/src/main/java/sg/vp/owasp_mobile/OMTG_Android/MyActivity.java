@@ -172,5 +172,9 @@ public class MyActivity extends AppCompatActivity {
         Intent intent = new Intent(this, OMTG_NETW_004_SSL_Pinning_Certificate.class);
         startActivity(intent);
     }
+    public void OMTG_CRYPTO_003_Signature_Validation (View view) {
+        Intent intent = new Intent(this, OMTG_CRYPTO_003_Signature_Validation.class);
+        startActivity(intent);
+    }
 
 }

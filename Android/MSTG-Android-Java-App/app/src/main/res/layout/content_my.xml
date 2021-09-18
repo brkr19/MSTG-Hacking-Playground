@@ -147,7 +147,10 @@
         android:layout_height="wrap_content"
         android:onClick="OMTG_NETW_004_SSL_Pining_Certificate" />
 
-
-
+    <Button
+        android:text="@string/button_OMTG_CRYPTO_003_Signature_Validation"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="OMTG_CRYPTO_003_Signature_Validation" />
 </LinearLayout>
 </ScrollView>

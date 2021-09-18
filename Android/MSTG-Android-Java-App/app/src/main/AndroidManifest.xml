@@ -14,7 +14,8 @@
         android:icon="@mipmap/ic_launcher"
         android:label="@string/app_name"
         android:supportsRtl="true"
-        android:theme="@style/AppTheme" >
+        android:theme="@style/AppTheme"
+        >
         <activity
             android:name=".MyActivity"
             android:label="@string/app_name"
@@ -226,6 +227,11 @@
             android:label="@string/title_activity_omtg__netw_004__ssl__pinning__certificate"
             android:theme="@style/AppTheme.NoActionBar" >
         </activity>
+        <activity
+            android:name=".OMTG_CRYPTO_003_Signature_Validation"
+            android:label="@string/title_activity_omtg__crypto_003__signature__validation"
+            android:theme="@style/AppTheme.NoActionBar" >
+    </activity>
     </application>
 
 </manifest>
